@@ -1,4 +1,4 @@
-Bangle.js App Loader (and Apps)
+(fork of Bangle.js App Loader (and Apps), just for exploring and testing)
 ================================
 
 [![Build Status](https://github.com/espruino/BangleApps/actions/workflows/nodejs.yml/badge.svg)](https://github.com/espruino/BangleApps/actions/workflows/nodejs.yml)
